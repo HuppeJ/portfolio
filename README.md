@@ -26,7 +26,7 @@ Authors :
 Timeline : May to Aug. 2019 <br/>
 Type of application : Notebooks and Scripting Tools. <br/>
 Technologies used : Python, NLTK, scikit-learn, Stranford NLP Parser, Amazon Mechanical Turk. <br/>
-Source code : [jh-summer19] (https://github.com/HuppeJ/jh-summer19). <br/>
+Source code : [jh-summer19](https://github.com/HuppeJ/jh-summer19). <br/>
 Description :
 
 
