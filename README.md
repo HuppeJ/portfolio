@@ -7,7 +7,7 @@
 
 ## Software Projects
 
-### MARVIN Intelligent Conversational Agent ꞏ University Master Year's Team Project
+### MARVIN Intelligent Conversational Agent ꞏ University Master Year Team Project
 
 ![](images/marvin.gif)
 
@@ -35,7 +35,7 @@ Authors :
 - [Alexandre Rault](https://github.com/AlexandreRault)
 
 
-### UML Multi-user Editor ꞏ University 3rd Year's Team Project
+### UML Multi-user Editor ꞏ University 3rd Year Team Project
 
 ![](images/uml_multi_user_editor.gif)
 
