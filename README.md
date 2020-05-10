@@ -1,8 +1,43 @@
 # Jérémie Huppé Portfolio
 
-
 ## Artificial Intelligence and Data Science Projects
 
+### Ontology for Music Festival and Shows ꞏ University Project                    
+
+![](images/ontology.png)
+
+Timeline : Sept. to Dec. 2019 <br/>
+Type of application : Notebooks and Scripting Tools. <br/>
+Technologies used : RDFS, SPARQL. <br/>
+Source code : _Private repository_. <br/>
+Description :
+
+- Created a simple ontology for music festival and shows using RDFS.
+- Populated our ontology and wrote SPARQL queries to test the ontology. 
+
+Authors : 
+
+- [Jérémie Huppé](https://github.com/HuppeJ)
+- [Alexandre Rault](https://github.com/AlexandreRault)
+
+
+### Mining Software Requirements from Unstructured Text ꞏ Polytechnique Research Internship Project 
+
+Timeline : May to Aug. 2019 <br/>
+Type of application : Notebooks and Scripting Tools. <br/>
+Technologies used : Python, NLTK, scikit-learn, Stranford NLP Parser, Amazon Mechanical Turk. <br/>
+Source code : [jh-summer19] (https://github.com/HuppeJ/jh-summer19). <br/>
+Description :
+
+
+-	Retrieved unstructured text from forums and built datasets. 
+-	Created different techniques to find the needs expressed in unstructured text: keyword matching, interrogative sentence analysis and more.
+-	Processed the datasets and submitted samples to Amazon Mechanical Turk to get the data labelled.
+-	Implemented and evaluated different machine learning classifier with scikit-learn. 
+
+Author : 
+
+- [Jérémie Huppé](https://github.com/HuppeJ)
 
 
 ## Software Projects
