@@ -2,12 +2,33 @@
 
 ## Artificial Intelligence and Data Science Projects
 
+
+### Market Basket Analysis ꞏ University Project                    
+
+![](images/MBA.gif)
+
+Timeline : Sept. to Dec. 2019 <br/>
+Type of application : Notebook. <br/>
+Technologies used : Python, Apache Spark, SQL, Google Cloud Platform. <br/>
+Source code : [Market Basket Analysis](https://github.com/HuppeJ/portfolio/blob/master/projects/MBA.ipynb). <br/>
+Description :
+
+- Implemented a MapReduce algorithm for Market Basket Analysis using the Apache Spark framework.
+- Ran our Market Basket Analysis algorithm on the whole [instacart](https://www.instacart.com/datasets/grocery-shopping-2017) dataset using the Google Cloud Platform.
+- Analyzed the results.
+
+Authors : 
+
+- [Jérémie Huppé](https://github.com/HuppeJ)
+- [Alexandre Rault](https://github.com/AlexandreRault)
+
+
 ### Ontology for Music Festival and Shows ꞏ University Project                    
 
 ![](images/ontology.png)
 
 Timeline : Sept. to Dec. 2019 <br/>
-Type of application : Notebooks and Scripting Tools. <br/>
+Type of application : Data Representation Tool. <br/>
 Technologies used : RDFS, SPARQL. <br/>
 Source code : _Private repository_. <br/>
 Description :
@@ -39,6 +60,14 @@ Author :
 
 - [Jérémie Huppé](https://github.com/HuppeJ)
 
+
+### Other University Project    
+
+I have worked on many other relevant AI and data science projects. Those projects do not have a detailed description in this portfolio because I wanted to keep the portfolio short. Here is a list of some of those projects : 
+
+- Implemented a Naive Bayes classifier from scratch using Julia to predict the type of transport used by a Montrealer. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/Naive_Bayes.ipynb). 
+- Implemented a Multilayer Perceptron Neural Network with backpropagation from scratch using Python and evaluated the implementation with Fashion MNIST dataset. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/MLP_NN.ipynb).
+- Implemented the Encoder and Decoder Deep LSTM architecture with Attention presented in [Effective Approaches to Attention-based Neural Machine Tranlation](https://arxiv.org/abs/1508.04025) and analysed the results. The source code can he found [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/Luong_Attention_Code_Source.ipynb) and the analysis [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/rapport.pdf).
 
 ## Software Projects
 
