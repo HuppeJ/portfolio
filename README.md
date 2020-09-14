@@ -1,5 +1,20 @@
 # Jérémie Huppé Portfolio
 
+
+- [Jérémie Huppé Portfolio](#jérémie-huppé-portfolio)
+  - [Artificial Intelligence and Data Science Projects](#artificial-intelligence-and-data-science-projects)
+    - [Market Basket Analysis ꞏ University Project](#market-basket-analysis-ꞏ-university-project)
+    - [Ontology for Music Festival and Shows ꞏ University Project](#ontology-for-music-festival-and-shows-ꞏ-university-project)
+    - [Mining Software Requirements from Unstructured Text ꞏ Polytechnique Montreal Research Internship Project](#mining-software-requirements-from-unstructured-text-ꞏ-polytechnique-montreal-research-internship-project)
+    - [Other University Project](#other-university-project)
+      - [Naive Bayes Classifier](#naive-bayes-classifier)
+      - [Multilayer Perceptron Neural Network with Backpropagation](#multilayer-perceptron-neural-network-with-backpropagation)
+      - [Encoder and Decoder Deep LSTM Architecture with Attention](#encoder-and-decoder-deep-lstm-architecture-with-attention)
+  - [Software Projects](#software-projects)
+    - [MARVIN Intelligent Conversational Agent ꞏ University Master Year Team Project](#marvin-intelligent-conversational-agent-ꞏ-university-master-year-team-project)
+    - [UML Multi-user Editor ꞏ University 3rd Year Team Project](#uml-multi-user-editor-ꞏ-university-3rd-year-team-project)
+    - [Query Expression Builder ꞏ Coveo Internship Project](#query-expression-builder-ꞏ-coveo-internship-project)
+
 ## Artificial Intelligence and Data Science Projects
 
 
@@ -42,7 +57,7 @@ Authors :
 - [Alexandre Rault](https://github.com/AlexandreRault)
 
 
-### Mining Software Requirements from Unstructured Text ꞏ Polytechnique Research Internship Project 
+### Mining Software Requirements from Unstructured Text ꞏ Polytechnique Montreal Research Internship Project 
 
 Timeline : May to Aug. 2019 <br/>
 Type of application : Notebooks and Scripting Tools. <br/>
@@ -65,9 +80,17 @@ Author :
 
 I have worked on many other relevant AI and data science projects. Those projects do not have a detailed description in this portfolio because I wanted to keep the portfolio short. Here is a list of some of those projects : 
 
-- Implemented a Naive Bayes classifier from scratch using Julia to predict the type of transport used by a Montrealer. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/Naive_Bayes.ipynb). 
-- Implemented a Multilayer Perceptron Neural Network with backpropagation from scratch using Python and evaluated the implementation with Fashion MNIST dataset. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/MLP_NN.ipynb).
-- Implemented the Encoder and Decoder Deep LSTM architecture with Attention presented in [Effective Approaches to Attention-based Neural Machine Tranlation](https://arxiv.org/abs/1508.04025) and analysed the results. The source code can he found [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/Luong_Attention_Code_Source.ipynb) and the analysis [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/rapport.pdf).
+#### Naive Bayes Classifier
+
+Implemented a Naive Bayes classifier from scratch using Julia to predict the type of transport used by a Montrealer. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/Naive_Bayes.ipynb). 
+
+#### Multilayer Perceptron Neural Network with Backpropagation
+
+Implemented a Multilayer Perceptron Neural Network with backpropagation from scratch using Python and evaluated the implementation with Fashion MNIST dataset. The source code can be found [here](https://github.com/HuppeJ/portfolio/blob/master/projects/MLP_NN.ipynb).
+
+#### Encoder and Decoder Deep LSTM Architecture with Attention
+
+Implemented the Encoder and Decoder Deep LSTM architecture with Attention presented in [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/abs/1508.04025) using TensorFlow 2 and analyzed the results. The source code can he found [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/Luong_Attention_Code_Source.ipynb) and the analysis [here](https://github.com/HuppeJ/TraductionAutomatiqueNeuronaleBaseeSurLAttention/blob/master/rapport.pdf).
 
 ## Software Projects
 
