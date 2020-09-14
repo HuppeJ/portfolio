@@ -6,7 +6,7 @@
     - [Market Basket Analysis ꞏ University Project](#market-basket-analysis-ꞏ-university-project)
     - [Ontology for Music Festival and Shows ꞏ University Project](#ontology-for-music-festival-and-shows-ꞏ-university-project)
     - [Mining Software Requirements from Unstructured Text ꞏ Polytechnique Montreal Research Internship Project](#mining-software-requirements-from-unstructured-text-ꞏ-polytechnique-montreal-research-internship-project)
-    - [Other University Project](#other-university-project)
+    - [Other Projects](#other-projects)
       - [Naive Bayes Classifier](#naive-bayes-classifier)
       - [Multilayer Perceptron Neural Network with Backpropagation](#multilayer-perceptron-neural-network-with-backpropagation)
       - [Encoder and Decoder Deep LSTM Architecture with Attention](#encoder-and-decoder-deep-lstm-architecture-with-attention)
@@ -14,6 +14,9 @@
     - [MARVIN Intelligent Conversational Agent ꞏ University Master Year Team Project](#marvin-intelligent-conversational-agent-ꞏ-university-master-year-team-project)
     - [UML Multi-user Editor ꞏ University 3rd Year Team Project](#uml-multi-user-editor-ꞏ-university-3rd-year-team-project)
     - [Query Expression Builder ꞏ Coveo Internship Project](#query-expression-builder-ꞏ-coveo-internship-project)
+    - [Other Projects](#other-projects-1)
+      - [Beat Tracking of Music Recording](#beat-tracking-of-music-recording)
+      - [Panorama Construction](#panorama-construction)
 
 ## Artificial Intelligence and Data Science Projects
 
@@ -76,7 +79,7 @@ Author :
 - [Jérémie Huppé](https://github.com/HuppeJ)
 
 
-### Other University Project    
+### Other Projects
 
 I have worked on many other relevant AI and data science projects. Those projects do not have a detailed description in this portfolio because I wanted to keep the portfolio short. Here is a list of some of those projects : 
 
@@ -162,3 +165,13 @@ Author :
 
 - [Jérémie Huppé](https://github.com/HuppeJ)
 
+
+### Other Projects
+
+#### Beat Tracking of Music Recording
+
+Explained to my classmates the principles of music beat tracking by detailing the Novelty curve, the Fourier Tempogram and the Predominant Local Pulse (PLP) concepts. Broke down into snippets of codes each step needed to find the PLP of a music recording using Python. The notebook can be found [here](https://colab.research.google.com/drive/1NvOjQKgj_7n2x9ZkKV7c96XJlkyDVwWZ?usp=sharing).
+
+#### Panorama Construction
+
+Panorama construction by registration, key-points, descriptors and homography. Created a panorama construction algorithm based on Scale-Invariant Feature Transform (SIFT) feature detection algorithm. 
